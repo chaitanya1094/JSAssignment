@@ -1,0 +1,21 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The GodFather",
+      "posterPath": "./images/godfather.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Shashwank Redemption",
+      "posterPath": "./images/shashwank.jpg"
+    }
+  ],
+  "favourites": [
+    {
+      "id": 1,
+      "title": "The GodFather",
+      "posterPath": "./images/godfather.jpg"
+    }
+  ]
+}
